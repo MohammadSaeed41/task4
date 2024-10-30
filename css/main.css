@@ -1,0 +1,16 @@
+.services{
+    background-color: white;
+    text-align: center;
+}
+.service{
+    background-color: white;
+    width: 20%;
+    height: 200px;
+    float:left;
+}
+.clear{
+    clear: both;
+}
+i{
+    background-color: yellow;
+}
